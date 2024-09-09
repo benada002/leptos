@@ -185,3 +185,5 @@ Sycamore and Leptos are both heavily influenced by SolidJS. At this point, Lepto
 - **Templating DSLs:** Sycamore uses a custom templating language for its views, while Leptos uses a JSX-like template format.
 - **`'static` signals:** One of Leptos’s main innovations was the creation of `Copy + 'static` signals, which have excellent ergonomics. Sycamore is in the process of adopting the same pattern, but this is not yet released.
 - **Perseus vs. server functions:** The Perseus metaframework provides an opinionated way to build Sycamore apps that include server functionality. Leptos instead provides primitives like server functions in the core of the framework.
+
+Hi
